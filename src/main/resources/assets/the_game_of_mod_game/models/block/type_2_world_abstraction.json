@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "up": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "north": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "east": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "south": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "west": "the_game_of_mod_game:blocks/type2worldabstraction",
+    "particle": "the_game_of_mod_game:blocks/type2worldabstraction"
+  }
+}

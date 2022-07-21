@@ -1,0 +1,8 @@
+{
+  "parent": "the_game_of_mod_game:custom/piglesshead",
+  "textures": {
+    "all": "the_game_of_mod_game:blocks/pig",
+    "particle": "the_game_of_mod_game:blocks/pig",
+    "0": "the_game_of_mod_game:blocks/pig"
+  }
+}

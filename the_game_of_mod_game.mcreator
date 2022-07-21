@@ -1,0 +1,409 @@
+{
+  "mod_elements": [
+    {
+      "name": "Type1WorldAbstraction",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "type_1_world_abstraction"
+    },
+    {
+      "name": "Type2WorldAbstraction",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "type_2_world_abstraction"
+    },
+    {
+      "name": "Researched",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "researched"
+    },
+    {
+      "name": "Type3WorldAbstraction",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "type_3_world_abstraction"
+    },
+    {
+      "name": "Trap",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trap"
+    },
+    {
+      "name": "Nonexistance",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nonexistance"
+    },
+    {
+      "name": "CorruptedOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_ore"
+    },
+    {
+      "name": "PureCorruption",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_corruption"
+    },
+    {
+      "name": "CorruptionCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corruption_craft"
+    },
+    {
+      "name": "YouShouldntBeHere",
+      "type": "dimension",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_shouldnt_be_here",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Unassigned",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unassigned"
+    },
+    {
+      "name": "CorruptedCreeper",
+      "type": "livingentity",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_creeper"
+    },
+    {
+      "name": "RemnantCraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "remnant_craft"
+    },
+    {
+      "name": "PiglessPig",
+      "type": "livingentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigless_pig"
+    },
+    {
+      "name": "PiglessHead",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigless_head"
+    },
+    {
+      "name": "CorruptedIngot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_ingot"
+    },
+    {
+      "name": "CorruptedBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_block"
+    },
+    {
+      "name": "CorruptedOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_ore_block_recipe"
+    },
+    {
+      "name": "CorruptedBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_block_ore_recipe"
+    },
+    {
+      "name": "CorruptedOreSmelting",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_ore_smelting"
+    },
+    {
+      "name": "CorruptedPickaxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_pickaxe"
+    },
+    {
+      "name": "CorruptedAxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_axe"
+    },
+    {
+      "name": "CorruptedSword",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_sword"
+    },
+    {
+      "name": "CorruptedShovel",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_shovel"
+    },
+    {
+      "name": "CorruptedHoe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_hoe"
+    },
+    {
+      "name": "CorruptedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_pickaxe_recipe"
+    },
+    {
+      "name": "CorruptedAxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_axe_recipe"
+    },
+    {
+      "name": "CorruptedSwordRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_sword_recipe"
+    },
+    {
+      "name": "CorruptedShovelRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_shovel_recipe"
+    },
+    {
+      "name": "CorruptedHoeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_hoe_recipe"
+    },
+    {
+      "name": "CorruptedArmor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CorruptedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_armor_helmet_recipe"
+    },
+    {
+      "name": "CorruptedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_armor_body_recipe"
+    },
+    {
+      "name": "CorruptedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_armor_leggings_recipe"
+    },
+    {
+      "name": "CorruptedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_armor_boots_recipe"
+    },
+    {
+      "name": "CondensedCraft",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "condensed_craft"
+    },
+    {
+      "name": "Functional",
+      "type": "livingentity",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "functional"
+    },
+    {
+      "name": "CorOreSilkTouch",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cor_ore_silk_touch",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "drone",
+      "files": [
+        "creepy_ambient_drone_sound_effect_full_hd_01"
+      ],
+      "category": "ambient",
+      "subtitle": "Corrupted Drone"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.the_game_of_mod_game.type_1_world_abstraction": "Type 1 World Abstraction",
+      "item.the_game_of_mod_game.corrupted_creeper_spawn_egg": "Corrupted Creeper Spawn Egg",
+      "subtitles.drone": "Corrupted Drone",
+      "item.the_game_of_mod_game.corrupted_shovel": "Corrupted Shovel",
+      "block.the_game_of_mod_game.pure_corruption": "Pure Corruption",
+      "block.the_game_of_mod_game.pigless_head": "You Monster",
+      "item.the_game_of_mod_game.corrupted_sword": "Corrupted Sword",
+      "entity.the_game_of_mod_game.corrupted_creeper": "Corrupted Creeper",
+      "item.the_game_of_mod_game.corrupted_armor_chestplate": "Corrupted Chestplate",
+      "item.the_game_of_mod_game.nonexistance": "Nonexistance",
+      "block.the_game_of_mod_game.corrupted_block": "Block of Condensed Corruption",
+      "item.the_game_of_mod_game.corrupted_hoe": "Corrupted Hoe",
+      "block.the_game_of_mod_game.type_2_world_abstraction": "Type 2 World Abstraction",
+      "item.the_game_of_mod_game.pigless_pig_spawn_egg": "Pigless Pig Spawn Egg",
+      "item.the_game_of_mod_game.corrupted_axe": "Corrupted Axe",
+      "item.the_game_of_mod_game.corrupted_armor_boots": "Corrupted Boots",
+      "entity.the_game_of_mod_game.pigless_pig": "Pigless Pig",
+      "item.the_game_of_mod_game.corrupted_armor_leggings": "Corrupted Leggings",
+      "item.the_game_of_mod_game.corrupted_pickaxe": "Corrupted Pickaxe",
+      "item.the_game_of_mod_game.you_shouldnt_be_here": "Remnant of a Time Gone By",
+      "block.the_game_of_mod_game.corrupted_ore": "Corrupted Ore",
+      "item.the_game_of_mod_game.functional_spawn_egg": "Functional Spawn Egg",
+      "block.the_game_of_mod_game.type_3_world_abstraction": "Type 3 World Abstraction",
+      "item.the_game_of_mod_game.corrupted_ingot": "Condensed Corruption",
+      "item.the_game_of_mod_game.unassigned": "[unassigned]",
+      "entity.the_game_of_mod_game.functional": "Functional",
+      "itemGroup.tabresearched": "Researched",
+      "biome.the_game_of_mod_game.trap": "Trap",
+      "item.the_game_of_mod_game.corrupted_armor_helmet": "Corrupted Helmet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_game_of_mod_game",
+    "modName": "the game of mod game",
+    "version": "0.0.2",
+    "description": "I gave my usb with minecraft on it to a friend",
+    "author": "ihhna",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.thegameofmodgame",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

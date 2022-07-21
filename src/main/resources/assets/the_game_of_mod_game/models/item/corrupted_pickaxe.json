@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "the_game_of_mod_game:items/corrupted_pickaxe"
+  }
+}

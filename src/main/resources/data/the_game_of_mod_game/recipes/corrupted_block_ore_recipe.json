@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_game_of_mod_game:corrupted_block"
+    }
+  ],
+  "result": {
+    "item": "the_game_of_mod_game:corrupted_ingot",
+    "count": 9
+  }
+}

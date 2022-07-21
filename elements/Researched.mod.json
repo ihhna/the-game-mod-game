@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Researched",
+    "icon": {
+      "value": "CUSTOM:Type1WorldAbstraction"
+    },
+    "showSearch": false
+  }
+}

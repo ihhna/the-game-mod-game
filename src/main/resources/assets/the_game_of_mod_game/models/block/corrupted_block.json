@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_game_of_mod_game:blocks/corrupted_ore_block",
+    "particle": "the_game_of_mod_game:blocks/corrupted_ore_block"
+  }
+}

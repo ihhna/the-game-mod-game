@@ -1,0 +1,16 @@
+{
+  "group": "untitled",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    {
+      "item": "the_game_of_mod_game:nonexistance"
+    }
+  ],
+  "result": {
+    "item": "the_game_of_mod_game:pure_corruption",
+    "count": 1
+  }
+}

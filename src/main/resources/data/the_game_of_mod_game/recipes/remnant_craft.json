@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "1": {
+      "item": "the_game_of_mod_game:unassigned"
+    },
+    "2": {
+      "item": "the_game_of_mod_game:nonexistance"
+    }
+  },
+  "result": {
+    "item": "the_game_of_mod_game:you_shouldnt_be_here",
+    "count": 1
+  }
+}

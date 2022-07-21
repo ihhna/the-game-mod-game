@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_game_of_mod_game:corrupted_ore"
+  },
+  "result": "the_game_of_mod_game:corrupted_ingot"
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="the_game_of_mod_game"
+version="0.0.2"
+displayName="the game of mod game"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="ihhna"
+description='''
+I gave my usb with minecraft on it to a friend
+'''
+
+[[dependencies.the_game_of_mod_game]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

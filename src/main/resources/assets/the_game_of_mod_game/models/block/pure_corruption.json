@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_game_of_mod_game:blocks/purecorruption",
+    "up": "the_game_of_mod_game:blocks/purecorruption",
+    "north": "the_game_of_mod_game:blocks/purecorruption",
+    "east": "the_game_of_mod_game:blocks/purecorruption",
+    "south": "the_game_of_mod_game:blocks/purecorruption",
+    "west": "the_game_of_mod_game:blocks/purecorruption",
+    "particle": "the_game_of_mod_game:blocks/purecorruption"
+  }
+}

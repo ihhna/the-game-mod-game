@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "1": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "2": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "3": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "4": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "5": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "6": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "7": {
+      "item": "the_game_of_mod_game:nonexistance"
+    },
+    "8": {
+      "item": "the_game_of_mod_game:nonexistance"
+    }
+  },
+  "result": {
+    "item": "the_game_of_mod_game:corrupted_ingot",
+    "count": 1
+  }
+}

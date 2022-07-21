@@ -1,0 +1,12 @@
+{
+  "drone": {
+    "category": "ambient",
+    "subtitle": "subtitles.drone",
+    "sounds": [
+      {
+        "name": "the_game_of_mod_game:creepy_ambient_drone_sound_effect_full_hd_01",
+        "stream": false
+      }
+    ]
+  }
+}
