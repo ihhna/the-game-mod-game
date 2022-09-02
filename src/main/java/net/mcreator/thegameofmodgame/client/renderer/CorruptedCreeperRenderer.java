@@ -15,6 +15,6 @@ public class CorruptedCreeperRenderer extends MobRenderer<CorruptedCreeperEntity
 
 	@Override
 	public ResourceLocation getTextureLocation(CorruptedCreeperEntity entity) {
-		return new ResourceLocation("the_game_of_mod_game:textures/corcreeper.png");
+		return new ResourceLocation("the_game_of_mod_game:textures/entities/corcreeper.png");
 	}
 }

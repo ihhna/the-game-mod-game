@@ -15,6 +15,6 @@ public class FunctionalRenderer extends MobRenderer<FunctionalEntity, Modelcusto
 
 	@Override
 	public ResourceLocation getTextureLocation(FunctionalEntity entity) {
-		return new ResourceLocation("the_game_of_mod_game:textures/villagerskin.png");
+		return new ResourceLocation("the_game_of_mod_game:textures/entities/villagerskin.png");
 	}
 }

@@ -15,6 +15,6 @@ public class PiglessPigRenderer extends MobRenderer<PiglessPigEntity, Modelgeome
 
 	@Override
 	public ResourceLocation getTextureLocation(PiglessPigEntity entity) {
-		return new ResourceLocation("the_game_of_mod_game:textures/pig.png");
+		return new ResourceLocation("the_game_of_mod_game:textures/entities/pig.png");
 	}
 }

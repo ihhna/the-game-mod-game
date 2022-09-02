@@ -336,6 +336,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "FuncTrade",
+      "type": "villagertrade",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "func_trade"
     }
   ],
   "variable_elements": [],
@@ -405,5 +413,5 @@
     "modElementsPackage": "net.mcreator.thegameofmodgame",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200120510
+  "mcreatorVersion": 202200234517
 }
